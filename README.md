@@ -36,3 +36,8 @@ javac AuthUtils.java UserStore.java LoginApp.java
 
 # 2. Run
 java -cp . LoginApp
+---
+
+## 📸 Demo Screenshot
+![Login success demo](assets/login-success.png)
+> Screenshot showing a successful 2FA login in the console.
